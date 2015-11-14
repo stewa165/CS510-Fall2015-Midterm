@@ -1,1 +1,1 @@
-# CS510-Fall2015-Midterm2
+# CS510-Fall2015-Midterm
